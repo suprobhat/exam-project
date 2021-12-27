@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: suprobhat1997/project:v1
+        image: suprobhat1997/project:v2
         ports:
         - containerPort: 80
